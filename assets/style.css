@@ -1,0 +1,186 @@
+body {
+    background-image: url(../images/background.png);
+} 
+
+.my-navbar-brand {
+       background-color: #4aaaa5;
+       height: 100%;
+       padding: 20px;
+       font-family: Georgia, 'Times New Roman', Times, serif;
+       font-weight: bold;
+       margin-bottom: 0px; 
+       margin-left: 171px;
+} 
+
+.my-navbar {
+    width: 100%;
+    padding: 0%;
+    background-color: #ffffff;
+    border-bottom: 1px solid #cccccc;
+    
+}
+
+.my-navbar-link {
+    padding-right: 500px;
+}
+
+.navbar-toggler {
+    display: block
+}
+
+.my-section {
+    margin-top: 15px;
+}
+
+#center-title {
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom: 2px solid #cccccc;
+    margin-bottom: 20px;
+    padding-top: 20px
+}
+
+.my-profile-pic {
+    margin-right: 20px;
+    height: 200px;
+    width: 200px
+}
+
+.main-section {
+    background-color: #ffffff;
+}
+
+.p1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    font-weight: bold;
+}
+
+footer { 
+    height: 40px;
+    border-top: 5px solid #4aaaa5;
+    color: #ffffff;
+    padding-top: 10px;
+   
+}
+
+/*portfolio page styling*/
+
+.my-navbar-brand2 {
+    background-color: #4aaaa5;
+    height: 100%;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-bottom: 0px; 
+    margin-left: 59px;
+}
+
+.main-section {
+    margin-top: 20px;
+}
+
+.title {
+    width: 100%;
+    border-bottom: 1px solid #777777;
+    background-color: #ffffff;
+    color: #4aaaa5;
+    padding: 10px;
+}
+
+.my-pics {
+    width: 300px;
+    height: 200px;
+}
+
+.pic1 {
+    margin-top: 20px;
+    
+}
+
+
+.banner1 {
+    width: 300px;
+    top: 70%;
+   
+}
+
+.banner-text-1 {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #4aaaa5; 
+    height: 50px;
+    width: 300px;
+    padding: 10px;
+    
+}
+
+.pic2 {
+    margin-top: 20px;
+}
+
+.banner2 {
+    width: 300px;
+    top: 70%;
+
+}
+
+.banner-text-2 {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #4aaaa5;
+    height: 50px;
+    width: 300px;
+    padding: 10px;
+}
+
+.pic3 {
+    margin-top: 20px;
+
+}
+
+.banner3 {
+    width: 300px;
+    top: 70%
+
+}
+
+.banner-text-3 {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #4aaaa5;
+    height: 50px;
+    width: 300px;
+    padding: 10px;
+}
+
+.pic4 {
+    margin-top: 20px;
+}
+
+.banner4 {
+    width: 300px;
+    top: 70%
+}
+
+.banner-text-4 {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #4aaaa5;
+    height: 50px;
+    width: 300px;
+    padding: 10px;
+}
+
+.pic5 {
+    margin-top: 20px;
+}
+
+.banner5 {
+    width: 300px;
+    top: 70%;
+}
+
+.banner-text-5 {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #4aaaa5;
+    height: 50px;
+    width: 300px;
+    padding: 10px;
+
